@@ -12,7 +12,7 @@
 
 ### My progress for lecture
 
-- [ ] Overview
+- [x] Overview
 - [ ] Bits, Bytes, & Integers I
 - [ ] Bits, Bytes, & Integers II
 - [ ] Floating Point
