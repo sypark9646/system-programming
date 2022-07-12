@@ -1,3 +1,8 @@
+• Explicit memory management, as required in C. 
+• Creating and manipulating pointer-based data structures. 
+• Implementing robust code that operates correctly with invalid arguments, including NULL pointers. 
+
+
 This is the handout directory for the 15-213 C Lab. 
 
 ************************
